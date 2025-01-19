@@ -1,2 +1,2 @@
 # klipper
-klipper, BTT Pico and Eddy setup
+Anycubic Vyper running Klipper with BTT Pico board and an Eddy coil for bedleveling.
